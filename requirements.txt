@@ -1,6 +1,6 @@
 anyio==4.6.2.post1
 asciidoc==10.2.1
-attrs==23.2.1.dev0
+attrs==23.3.0
 autocommand==2.2.2
 bitarray==3.0.0
 bitstring==4.2.3
